@@ -1,0 +1,60 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Top Banner Section */
+.navbar-dark .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+.top-banner{
+    background-color:#264653;
+}
+.font-color{
+    color: #E0E0E0;
+    font-weight: 300;
+}
+.btn-color{
+    background-color: #E76F51;
+}
+.top-sizing{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.left-sizing{
+    margin-top: 170px;
+}
+
+/* Fetured Bikes 2021 */
+.fetured-bike{
+    font-weight: 700;
+}
+.color{
+    color: #E76F51;
+   
+}
+.grey-scale{
+    filter: grayscale(100%);
+}
+.fetured-size{
+    margin-top: 100px;
+    margin-bottom: 120px;
+}
+
+/* Frequently Asked Questions */
+.faq{
+    margin-top: 120px;
+    margin-bottom: 50px;
+}
+
+.custom-collaps{
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+    font-weight: 700;
+}
+
+/* Innovation Part */
+.inovation-part{
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
